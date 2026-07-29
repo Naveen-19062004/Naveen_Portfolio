@@ -20,6 +20,7 @@
   ### 🛠️ Tech Stack & Badges
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   ![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20Oracle-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -57,7 +58,7 @@ I am an **Electronics and Communication Engineering (ECE)** graduate with hands-
 During my 6-month hands-on training and experience at **Besant Technologies**, I solved complex data puzzles across domain areas including **Healthcare, Finance, Retail Sales, and Supply Chain Logistics**. I specialize in creating star-schema data models, writing complex DAX measures, building automated data pipelines, and structuring interactive self-service dashboards.
 
 - 💼 **Current Status:** Open to Full-Time Data Analyst & Power BI Developer roles
-- 🎯 **Core Strengths:** Power BI, DAX, SQL (MySQL & Oracle), Python (Pandas, EDA), Advanced Excel, ETL, Power Query
+- 🎯 **Core Strengths:** Power BI, DAX, SQL (MySQL & Oracle), Microsoft Azure, Python (Pandas, EDA), Advanced Excel, ETL, Power Query
 - 🌐 **Live Portfolio:** [https://naveenk.github.io](https://naveenk.github.io)
 
 ---
@@ -164,6 +165,7 @@ A smart city IoT prototype utilizing ultrasonic water-level sensors and microcon
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Business Intelligence** | Power BI, Power BI Service, Tableau, Dashboard Design, KPI Reporting |
+| **Cloud & Data Platforms** | Microsoft Azure (Azure Data Factory, Synapse, SQL DB), Power BI Service |
 | **Data Modeling & DAX** | Star Schema, Snowflake Schema, 20+ DAX Measures, Time Intelligence |
 | **Databases & Querying** | SQL (MySQL, Oracle SQL), Database Normalization (3NF), Indexes, Constraints |
 | **Programming & Data Science**| Python, Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA) |
