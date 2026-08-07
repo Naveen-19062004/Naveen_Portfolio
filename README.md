@@ -68,7 +68,7 @@ During my 6-month hands-on training and experience at **Besant Technologies**, I
 | Metric | Detail |
 | :--- | :--- |
 | 💼 **Experience** | **6 Months** Data Analytics & Power BI Training (Besant Technologies) |
-| 📊 **Dashboards Built** | **3+** Fully Interactive Multi-Page BI Dashboards |
+| 📊 **Dashboards Built** | **5+** Fully Interactive Multi-Page BI Dashboards |
 | 🔍 **Data Analyzed** | **25,000+** Data Records Cleaned & Processed |
 | 🚀 **Projects Completed** | **6** End-to-End Analytics & IoT/Engineering Projects |
 | 📜 **Certifications** | **4** Industry Certifications (Microsoft PL-300, IBM, Google, Besant Tech) |
@@ -166,7 +166,7 @@ A smart city IoT prototype utilizing ultrasonic water-level sensors and microcon
 | :--- | :--- |
 | **Business Intelligence** | Power BI, Power BI Service, Tableau, Dashboard Design, KPI Reporting |
 | **Cloud & Data Platforms** | Microsoft Azure (Azure Data Factory, Synapse, SQL DB), Power BI Service |
-| **Data Modeling & DAX** | Star Schema, Snowflake Schema, 20+ DAX Measures, Time Intelligence |
+| **Data Modeling & DAX** | Star Schema, Snowflake Schema, 60+ DAX Measures, Time Intelligence |
 | **Databases & Querying** | SQL (MySQL, Oracle SQL), Database Normalization (3NF), Indexes, Constraints |
 | **Programming & Data Science**| Python, Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA) |
 | **ETL & Data Wrangling** | Power Query, Data Transformation, Data Validation, Automated Workflows |
@@ -188,15 +188,15 @@ A smart city IoT prototype utilizing ultrasonic water-level sensors and microcon
 
 ### **Experience**
 **Data Analyst / Power BI Developer Intern**  
-*Besant Technologies — Chennai, India* | **Jan 2026 – Present (6 Months)**
-- Built interactive Power BI reports using 20+ DAX measures and Star Schema modeling.
-- Cleaned and prepared large datasets using MySQL and Power Query.
-- Conducted exploratory data analysis (EDA) using Python (Pandas, Matplotlib) in Jupyter Notebooks.
+*Besant Technologies — Chennai, India* | **Jan 2026 – Jun 2026 (6 Months)**
+- Built 5+ interactive Power BI reports using 60+ DAX measures and Star Schema modeling.
+- Cleaned and prepared large datasets using MySQL, CTEs, Window Functions, and Power Query.
+- Conducted exploratory data analysis (EDA) using Python (Pandas, NumPy) in Jupyter Notebooks.
 - Created Advanced Excel templates with Power Pivot and Pivot Tables for operational reporting.
 
 ### **Education**
 **Bachelor of Engineering (B.E.) — Electronics & Communication Engineering (ECE)**  
-*Graduated May 2025 | First Class*
+*J. J. College of Engineering and Technology | Graduated May 2025 | CGPA: 7.4*
 
 ---
 

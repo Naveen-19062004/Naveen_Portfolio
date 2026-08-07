@@ -5,7 +5,7 @@ const html = document.documentElement;
 const themeBtn = document.getElementById('themeBtn');
 const themeIcon = document.getElementById('themeIcon');
 const themeColorMetas = document.querySelectorAll('meta[name="theme-color"]');
-const RESUME_ASSET_PATH = 'assets/Naveen_K_Resume.pdf';
+const RESUME_ASSET_PATH = 'assets/Naveen_K_Resume.pdf?v=20260807';
 const THEME_COLORS = {
   light: '#fdfdfc',
   dark: '#0a0a0b'
