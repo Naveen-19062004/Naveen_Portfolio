@@ -4,7 +4,7 @@
   <img src="assets/Naveen.png" alt="Naveen K" width="160" style="border-radius: 50%; border: 3px solid #3b82f6;" />
 
   # 📊 Naveen K
-  ### **Data Analyst & Power BI Developer**
+  ### **Data Analyst, Power BI Developer & Data Engineer**
 
   *Transforming Complex Datasets into Interactive Dashboards & Actionable Business Insights*
 
@@ -57,7 +57,7 @@ I am an **Electronics and Communication Engineering (ECE)** graduate with hands-
 
 During my 6-month hands-on training and experience at **Besant Technologies**, I solved complex data puzzles across domain areas including **Healthcare, Finance, Retail Sales, and Supply Chain Logistics**. I specialize in creating star-schema data models, writing complex DAX measures, building automated data pipelines, and structuring interactive self-service dashboards.
 
-- 💼 **Current Status:** Open to Full-Time Data Analyst & Power BI Developer roles
+- 💼 **Current Status:** Open to Full-Time Data Analyst, Power BI Developer & Data Engineer roles
 - 🎯 **Core Strengths:** Power BI, DAX, SQL (MySQL & Oracle), Microsoft Azure, Python (Pandas, EDA), Advanced Excel, ETL, Power Query
 - 🌐 **Live Portfolio:** [https://naveenk.github.io](https://naveenk.github.io)
 

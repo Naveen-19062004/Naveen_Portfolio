@@ -74,7 +74,7 @@ if (prefersDarkScheme.addEventListener) {
    TYPING ANIMATION
 ============================================================ */
 const typedEl = document.getElementById('typedText');
-const roles = ['Data Analyst', 'Power BI Developer', 'Business Intelligence Analyst', 'SQL & ETL Developer'];
+const roles = ['Data Analyst', 'Power BI Developer', 'Data Engineer', 'Business Intelligence Analyst', 'SQL & ETL Developer'];
 let roleIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
