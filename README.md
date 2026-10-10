@@ -55,7 +55,7 @@
 
 I am an **Electronics and Communication Engineering (ECE)** graduate with hands-on experience in **Data Analytics, SQL Querying, Power BI Dashboard Development, Data Cleaning, and ETL Workflows**. 
 
-During my 1-year hands-on training and experience at **Besant Technologies**, I solved complex data puzzles across domain areas including **Healthcare, Finance, Retail Sales, and Supply Chain Logistics**. I specialize in creating star-schema data models, writing complex DAX measures, building automated data pipelines, and structuring interactive self-service dashboards.
+During my 6-month hands-on training and experience at **BDreamz Global Solutions**, I solved complex data puzzles across domain areas including **Healthcare, Finance, Retail Sales, and Supply Chain Logistics**. I specialize in creating star-schema data models, writing complex DAX measures, building automated data pipelines, and structuring interactive self-service dashboards.
 
 - 💼 **Current Status:** Open to Full-Time Data Analyst, Power BI Developer & Data Engineer roles
 - 🎯 **Core Strengths:** Power BI, DAX, SQL (MySQL & Oracle), Microsoft Azure, Python (Pandas, EDA), Advanced Excel, ETL, Power Query
@@ -67,11 +67,11 @@ During my 1-year hands-on training and experience at **Besant Technologies**, I 
 
 | Metric | Detail |
 | :--- | :--- |
-| 💼 **Experience** | **1 Year** Data Analytics & Power BI Training (Besant Technologies) |
+| 💼 **Experience** | **6 Months** Data Analytics & Power BI Training (BDreamz Global Solutions) |
 | 📊 **Dashboards Built** | **5+** Fully Interactive Multi-Page BI Dashboards |
 | 🔍 **Data Analyzed** | **25,000+** Data Records Cleaned & Processed |
 | 🚀 **Projects Completed** | **6** End-to-End Analytics & IoT/Engineering Projects |
-| 📜 **Certifications** | **4** Industry Certifications (Microsoft PL-300, IBM, Google, Besant Tech) |
+| 📜 **Certifications** | **4** Industry Certifications (Microsoft PL-300, IBM, Google, BDreamz Global) |
 
 ---
 
@@ -180,7 +180,7 @@ A smart city IoT prototype utilizing ultrasonic water-level sensors and microcon
 - 🏆 **Microsoft Certified: PL-300 Power BI Data Analyst** — Microsoft
 - 🏆 **IBM Generative AI for Data Analysts** — IBM
 - 🏆 **Google Data Analytics Professional Certificate** — Google
-- 🏆 **Data Analytics Course Certification** — Besant Technologies
+- 🏆 **Data Analytics Course Certification** — BDreamz Global Solutions
 
 ---
 
@@ -188,7 +188,7 @@ A smart city IoT prototype utilizing ultrasonic water-level sensors and microcon
 
 ### **Experience**
 **Data Analyst / Power BI Developer Intern**  
-*Besant Technologies — Chennai, India* | **Jan 2025 – Dec 2025 (1 Year)**
+*BDreamz Global Solutions — Chennai, India* | **Jan 2025 – Jun 2025 (6 Months)**
 - Built 5+ interactive Power BI reports using 60+ DAX measures and Star Schema modeling.
 - Cleaned and prepared large datasets using MySQL, CTEs, Window Functions, and Power Query.
 - Conducted exploratory data analysis (EDA) using Python (Pandas, NumPy) in Jupyter Notebooks.
