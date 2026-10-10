@@ -196,7 +196,7 @@ A smart city IoT prototype utilizing ultrasonic water-level sensors and microcon
 
 ### **Education**
 **Bachelor of Engineering (B.E.) — Electronics & Communication Engineering (ECE)**  
-*J. J. College of Engineering and Technology | Graduated May 2025 | CGPA: 7.4*
+*J. J. College of Engineering and Technology | Graduated May 2025 | CGPA: 7.58*
 
 ---
 
